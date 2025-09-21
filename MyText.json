@@ -1,0 +1,21 @@
+{
+  "id": 1001,
+  "name": "测试用户",
+  "isActive": true,
+  "balance": 99.95,
+  "roles": ["admin", "editor", "viewer"],
+  "profile": {
+    "age": 25,
+    "email": "testuser@example.com",
+    "address": {
+      "city": "Shanghai",
+      "zipcode": "200000"
+    }
+  },
+  "preferences": {
+    "notifications": false,
+    "theme": "dark"
+  },
+  "tags": [],
+  "lastLogin": null
+}
